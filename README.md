@@ -14,14 +14,14 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
 
-1. [**Basics of agent-based modelling: the micro-macro gap**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/01_Introduction/Introduction.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/01_Introduction/Slides/Slides.html)  (06.03.2024)  
+1. [**Basics of agent-based modelling: the micro-macro gap**]() [[Slides]]()  (06.03.2024)  
 - [**Tutorial: ABM basics in Python with Mesa (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/Exercise_Tutorial.md)
 
-2. [**Modelling segregation: Schelling's model**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/02_Segregation/Segregation.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/02_Segregation/Slides/Slides.html) (13.03.2024)  
+2. [**Modelling segregation: Schelling's model**]() [[Slides]]() (13.03.2024)  
 - [**Tutorial: ABM basics in Python with Mesa (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/Exercise_Tutorial.md)
 
-3. [**Modelling cultures**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Culture.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Slides/Slides.html) (20.03.2024)  
-- [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_01_Schelling/Excercise_Schelling_withSolution.md)
+3. [**Modelling cultures**]() [[Slides]]() (20.03.2024)  
+- [**Exercise 1: Schelling's model and Pandas (session 1)**]()
 
 - *No class on 27.03.2024 and 03.04.2024: Easter holidays*
 
