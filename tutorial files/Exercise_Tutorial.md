@@ -43,7 +43,7 @@ In this tutorial, we will walk through creating a simple model and progressively
 
 3.2. [Mesa model tutorial](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/mesa_introduction/mesa_introductory_tutorial_complete.ipynb): Using Mesa simple model creation
 
-_This tutorial has been adapted from the Mesa package introductory tutorial [GitHub](https://github.com/projectmesa/mesa/blob/main/docs/tutorials/intro_tutorial.rst). It has been purposefully simplified for the context of this course._
+_This tutorial has been adapted from the Mesa package introductory tutorial [GitHub](https://github.com/projectmesa/mesa/tree/main/docs/tutorials). It has been purposefully simplified for the context of this course._
 
 - Readings: [Mesa: An Agent-Based Modeling Framework](https://www.researchgate.net/profile/Jacqueline-Kazil/publication/328774079_Mesa_An_Agent-Based_Modeling_Framework/links/5cc7632192851c8d220e5897/Mesa-An-Agent-Based-Modeling-Framework.pdf). This research paper goes in detail through the tutorial code. **Note that the code in the research paper might be depricated, so use the tutorial code for reference**
 
