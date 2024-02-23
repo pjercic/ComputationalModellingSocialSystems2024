@@ -33,7 +33,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 5. [**Opinion dynamics**]() [[Slides]]()  (17.04.2024)  
 - [**Exercise 2: Threshold models (session 1)**]()
 
-6. [**Modelling hyperpolarization and cognitive balance**]  (24.04.2024) - Guest lecture by Simon Schweighofer]()    
+6. [**Modelling hyperpolarization and cognitive balance**]() [[Slides]]()  (24.04.2024)   
 - [**Exercise 2: Threshold models (session 2)**]()
 
 - *No class on 01.05.2022: Labour day*
