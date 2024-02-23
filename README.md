@@ -22,8 +22,8 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 3. [**Modelling cultures**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Culture.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Slides/Slides.html) (20.03.2024)  
 - [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_01_Schelling/Excercise_Schelling_withSolution.md)
-- 
-*No class on 27.03.2024 and 03.04.2024: Easter holidays*
+
+- *No class on 27.03.2024 and 03.04.2024: Easter holidays*
 
 ### Block 2: Opinion dynamics
 
