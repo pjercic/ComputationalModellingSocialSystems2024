@@ -12,40 +12,36 @@ The Python crash course is aimed at teaching programming basics in Python as wel
 
 The content of the Python crash course tutorials is as follows: [[Download material]](https://downgit.github.io/#/home?url=https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction)
 
-1.1. [Python Exercise 00](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/00_exercise): Introduction to working with Jupyter Notebooks 
+1.1. [Python Exercise 00](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/python_introduction/0_tutorial/00_en_introduction_jupyter_notebooks.ipynb): Introduction to working with Jupyter Notebooks 
 
-1.2. [Python Exercise 01](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/01_exercise): Using Python as calculator
+1.2. [Python Exercise 01](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/python_introduction/1_tutorial/01_en_exercise_python_as_calculator.ipynb): Using Python as calculator
 
-1.3. [Python Exercise 02](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/02_exercise): Lists, loops and tables
+1.3. [Python Exercise 02](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/python_introduction/2_tutorial/02_en_exercise_lists_loops_tables.ipynb): Lists, loops and tables
 
-1.4. [Python Exercise 03](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/03_exercise): Logic, conditionals and filters
+1.4. [Python Exercise 03](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/python_introduction/3_tutorial/03_en_exercise_logic_conditionals_filtering.ipynb): Logic, conditionals and filters
 
-1.5. [Python Exercise 04](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/04_exercise): Functions, images and text
+1.5. [Python Exercise 04](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/python_introduction/4_tutorial/04_en_exercise_functions_images_text.ipynb): Functions, images and text
 
 _This Python crash course has been adapted from lecture on "Daten Lesen Lernen" [GitHub](https://github.com/Daten-Lesen-Lernen/daten-lesen-lernen-lecture)_
 
-The data sets needed to complete the tutorials can be found in the folder [data](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/python_introduction/data).
+The data sets needed to complete the tutorials can be found in the folder [data](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/tutorial%20files/python_introduction/data).
 
 ## 2. Pandas crash course
 
 In this tutorial, we will walk through functionality of Pandas library, neccesary for data transformation and data visualization.
 
-The content of the tutorials is as follows: [[Download material]](https://downgit.github.io/#/home?url=https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/pandas_introduction)
+2.1. [Pandas data transformation tutorial](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/pandas_introduction/pandas_introductory_tutorial_data.ipynb): Using Pandas Series object for data transformation
 
-2.1. [Pandas data transformation tutorial](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_00_Tut/pandas_introduction/pandas_introductory_tutorial_data.ipynb): Using Pandas Series object for data transformation
-
-The data sets needed to complete the tutorials can be found in the folder [data](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/pandas_introduction/data).
+The data sets needed to complete the tutorials can be found in the folder [data](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/tutorial%20files/pandas_introduction/data).
 
 
 ## 3. Mesa crash course
 
 In this tutorial, we will walk through creating a simple model and progressively add functionality which will illustrate Mesa’s core features.
 
-The content of the tutorials is as follows: [[Download material]](https://downgit.github.io/#/home?url=https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/tree/main/Exercise_00_Tut/mesa_introduction)
+3.1. [Mesa setup](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/mesa_introduction/mesa_setup_tutorial.ipynb): Introduction to setup Mesa package
 
-3.1. [Mesa setup](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_00_Tut/mesa_introduction/mesa_setup_tutorial.ipynb): Introduction to setup Mesa package
-
-3.2. [Mesa model tutorial](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_00_Tut/mesa_introduction/mesa_introductory_tutorial_complete.ipynb): Using Mesa simple model creation
+3.2. [Mesa model tutorial](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/tutorial%20files/mesa_introduction/mesa_introductory_tutorial_complete.ipynb): Using Mesa simple model creation
 
 _This tutorial has been adapted from the Mesa package introductory tutorial [GitHub](https://github.com/projectmesa/mesa/blob/main/docs/tutorials/intro_tutorial.rst). It has been purposefully simplified for the context of this course._
 
