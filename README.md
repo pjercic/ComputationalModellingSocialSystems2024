@@ -22,6 +22,8 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 3. [**Modelling cultures**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Culture.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/03_Culture/Slides/Slides.html) (20.03.2024)  
 - [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_01_Schelling/Excercise_Schelling_withSolution.md)
+- 
+*No class on 27.03.2024 and 03.04.2024: Easter holidays*
 
 ### Block 2: Opinion dynamics
 
@@ -34,7 +36,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 6. [**Modelling hyperpolarization and cognitive balance**  (24.04.2024) - Guest lecture by Simon Schweighofer](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/06_Hyperpolarization/Hyperpolarization.html)    
 - [**Exercise 2: Threshold models (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_02_Granovetter/Excercise_Granovetter.md)
 
-*No class between 9.04.2022 and 23.04.2022: Easter holidays*
+- *No class on 01.05.2022: Labour day*
 
 ### Block 3: Network formation
 
