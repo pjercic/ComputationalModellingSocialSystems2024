@@ -54,14 +54,10 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 10. [**Growth processes and spreading in networks**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/10_GrowthAndSpreading/GrowthAndSpreading.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/10_GrowthAndSpreading/Slides/Slides.html)  (29.05.2024)   
 - [**Exercise 4: Scale-free networks and visualization (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_04_ScaleFreeNetworks/Excercise_Scale_Free_Networks.md)
 
-*No class on 26.05.2022: Ascension day*
-
 11. [**Modelling epidemics: the SEIRX model**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/11_ModellingEpidemics/index.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/11_ModellingEpidemics/index.html)  (05.06.2024) 
 
 12. [**Lecture Q&A session**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  (12.06.2024)  
 *Project guidance*  
-
-*No class on 16.06.2022: Corpus Christi*
 
 13. **Project presentations** [[Agenda]](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/final_project_agenda.pdf) (19.06.2024)
 - Make sure your whole group is available between 16:00 and 19:00
