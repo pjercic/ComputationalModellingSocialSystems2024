@@ -59,22 +59,24 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 12. [**Lecture Q&A session**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  (12.06.2024)  
 *Project guidance*  
 
-13. **Project presentations** [[Agenda]](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/final_project_agenda.pdf) (19.06.2024)
-- Make sure your whole group is available between 16:00 and 19:00
+### Project presentations:
 
-14. **Project presentations** [[Agenda]](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/final_project_agenda.pdf) (26.06.2024)
-- Make sure your whole group is available between 16:00 and 19:00
-- **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/ProjectsGuide.html)**
+13. **Project presentations Day 1** [[Agenda]]() (19.06.2024)
+- Make sure your whole group is available between xx:xx and xx:xx
+
+14. **Project presentations Day 2** [[Agenda]]() (26.06.2024)
+- Make sure your whole group is available between xx:xx and xx:xx
+- **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide]()**
 
 ## Where to access materials
 
 - Reading lists, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/ComputationalModellingSocialSystems2024).
-- Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/enrol/index.php?id=4384) to get additional information, watch videos, and to participate in the forums.
+- Students at TU Graz can access the [course at Teach Center]() to get additional information, watch videos, and to participate in the forums.
 
 
 ## Place and time
 
-The course takes place on Wednesdays at 15:00 (sharp) lasts 2 hours, with a **lecture followed by an exercise session**. Exercise session starts the same day at 18:00 and lasts 1 hour. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E(Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
+The course takes place on Wednesdays at 15:00 (sharp), lasts 2 hours, with a **exercise session following the lecture**. Exercise session starts the same day at 18:00 and lasts 1 hour. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E(Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
 
 There will be an extra online exercise support group (decided later on). Check TeachCenter for the webex link.
 
