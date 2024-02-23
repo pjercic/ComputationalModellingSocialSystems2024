@@ -27,36 +27,36 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 ### Block 2: Opinion dynamics
 
-4. [**Basics of spreading: Granovetter's threshold model**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/04_BasicSpreading/BasicSpreading.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/04_BasicSpreading/Slides/Slides.html)  (10.04.2024)  
-- [**Exercise 1: Schelling's model and Pandas (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_01_Schelling/Excercise_Schelling_withSolution.md)
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (10.04.2024)  
+- [**Exercise 1: Schelling's model and Pandas (session 2)**]()
 
-5. [**Opinion dynamics**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/05_OpinionDynamics/OpinionDynamics.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/05_OpinionDynamics/Slides/Slides.html)  (17.04.2024)  
-- [**Exercise 2: Threshold models (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_02_Granovetter/Excercise_Granovetter.md)
+5. [**Opinion dynamics**]() [[Slides]]()  (17.04.2024)  
+- [**Exercise 2: Threshold models (session 1)**]()
 
-6. [**Modelling hyperpolarization and cognitive balance**  (24.04.2024) - Guest lecture by Simon Schweighofer](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/06_Hyperpolarization/Hyperpolarization.html)    
-- [**Exercise 2: Threshold models (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_02_Granovetter/Excercise_Granovetter.md)
+6. [**Modelling hyperpolarization and cognitive balance**]  (24.04.2024) - Guest lecture by Simon Schweighofer]()    
+- [**Exercise 2: Threshold models (session 2)**]()
 
 - *No class on 01.05.2022: Labour day*
 
 ### Block 3: Network formation
 
-7. [**Basic network models**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/07_NetworkModels/NetworkModels.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/07_NetworkModels/Slides/Slides.html)  (08.05.2024)  
-- [**Exercise 3: Bounded confidence (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_03_BoundedConfidence/Excercise_Bounded-Confidence.md)
+7. [**Basic network models**]() [[Slides]]()  (08.05.2024)  
+- [**Exercise 3: Bounded confidence (session 1)**]()
 
-8. [**Modelling small worlds**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/08_SmallWorlds/SmallWorlds.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/08_SmallWorlds/Slides/Slides.html)  (15.05.2024)  
-- [**Exercise 3: Bounded confidence (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_03_BoundedConfidence/Excercise_Bounded-Confidence.md)
+8. [**Modelling small worlds**]() [[Slides]]()  (15.05.2024)  
+- [**Exercise 3: Bounded confidence (session 2)**]()
 
-9. [**Scale-free networks**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/09_ScaleFreeNetworks/ScaleFreeNetworks.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/09_ScaleFreeNetworks/Slides/Slides.html)  (22.05.2024)  
-- [**Exercise 4: Scale-free networks and visualization (session 1)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_04_ScaleFreeNetworks/Excercise_Scale_Free_Networks.md)
+9. [**Scale-free networks**]() [[Slides]]()  (22.05.2024)  
+- [**Exercise 4: Scale-free networks and visualization (session 1)**]()
 
 ### Block 4: Behavior on networks
 
-10. [**Growth processes and spreading in networks**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/10_GrowthAndSpreading/GrowthAndSpreading.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/10_GrowthAndSpreading/Slides/Slides.html)  (29.05.2024)   
-- [**Exercise 4: Scale-free networks and visualization (session 2)**](https://github.com/dgarcia-eu/ComputationalModellingSocialSystems/blob/main/Exercise_04_ScaleFreeNetworks/Excercise_Scale_Free_Networks.md)
+10. [**Growth processes and spreading in networks**]() [[Slides]]()  (29.05.2024)   
+- [**Exercise 4: Scale-free networks and visualization (session 2)**]()
 
-11. [**Modelling epidemics: the SEIRX model**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/11_ModellingEpidemics/index.html) [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/11_ModellingEpidemics/index.html)  (05.06.2024) 
+11. [**Modelling epidemics: the SEIRX model**]() [[Slides]]()  (05.06.2024) 
 
-12. [**Lecture Q&A session**](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  [[Slides]](https://dgarcia-eu.github.io/ComputationalModellingSocialSystems/12_Summary/Slides/Slides.html)  (12.06.2024)  
+12. [**Lecture Q&A session**]()  [[Slides]]()  (12.06.2024)  
 *Project guidance*  
 
 ### Project presentations:
