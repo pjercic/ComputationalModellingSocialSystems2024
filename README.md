@@ -72,6 +72,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 - Reading lists, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/ComputationalModellingSocialSystems2024).
 - Students at TU Graz can access the [course at Teach Center]() to get additional information, watch videos, and to participate in the forums.
+- Most of the communication will happen on [discord](https://discord.gg/9WhRWYQG), here you can ask questions where we will respond in the shortest time period
 
 
 ## Place and time
