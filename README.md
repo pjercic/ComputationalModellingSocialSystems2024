@@ -14,7 +14,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
 
-1. [**Basics of agent-based modelling]() [[Slides]]()  (06.03.2024)
+1. [**Basics of agent-based modelling**]() [[Slides]]()  (06.03.2024)
 - No exercize session, organisation talk after the lecture  
 
 3. [**Modelling segregation: Schelling's model**]() [[Slides]]() (13.03.2024)
@@ -33,12 +33,12 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (17.04.2024)
 - [**Exercise 1: Schelling's model and Pandas (session 2)**]()
 
+### Block 3: Network formation
+
 6. [**Basic network models**]() [[Slides]]()  (24.04.2024)   
 - [**Exercise 2: Threshold models (session 1)**]()
 
 - *No class on 01.05.2022: Labour day*
-
-### Block 3: Network formation
 
 7. [**Modelling small worlds**]() [[Slides]]()  (08.05.2024)  
 - [**Exercise 2: Threshold models (session 2)**]()
@@ -71,7 +71,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 ## Where to access materials
 
 - Reading lists, codes, and data can be found on the [Github repository of the course](https://github.com/pjercic/ComputationalModellingSocialSystems2024).
-- Students at TU Graz can access the [course at Teach Center]() to get additional information, watch videos, and to participate in the forums.
+- Students at TU Graz can access the [course at Teach Center](https://tc.tugraz.at/main/enrol/index.php?id=4384) to get additional information, watch videos, and to participate in the forums.
 - Most of the communication will happen on [discord](https://discord.gg/9WhRWYQG), here you can ask questions where we will respond in the shortest time period
 
 
