@@ -58,7 +58,6 @@ The course is organized in 12 lectures grouped together in 4 blocks, plus two se
 - [**Exercise 4: Scale-free networks and visualization (session 2)**]()
 
 13. [**Game-theoretic models II(complex games and on networks) - guest lecture Matthias Raddant**]()  [[Slides]]()  (12.06.2024)  
-*Project guidance*  
 
 ### Project presentations:
 
