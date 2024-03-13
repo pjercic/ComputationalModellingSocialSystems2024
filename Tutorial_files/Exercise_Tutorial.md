@@ -54,3 +54,4 @@ In case you have trouble following the given Anaconda installation tutorial or y
 - https://www.mygreatlearning.com/blog/how-to-install-jupyter-notebook/
 - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html
 - https://towardsdatascience.com/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way-de3b7623ea4a
+- https://vis.csh.ac.at/seeing-ABM/
