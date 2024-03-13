@@ -17,7 +17,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 1. [**Basics of agent-based modelling**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ABM_basics_W1.pdf)  (06.03.2024)
 - No exercize session, organisation talk after the lecture  
 
-3. [**Modelling segregation: Schelling's model**]() [[Slides]]() (13.03.2024)
+2. [**Modelling segregation: Schelling's model**]() [[Slides]]() (13.03.2024)
 - [**Tutorial: Python and Pandas introduction (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
 
 3. [**Modelling cultures**]() [[Slides]]() (20.03.2024)
