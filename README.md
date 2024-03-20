@@ -20,7 +20,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 2. [**Modelling segregation: Schelling's model**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Segregation_W2.pdf) (13.03.2024)
 - [**Tutorial: Python and Pandas introduction (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
 
-3. [**Modelling cultures**]() [[Slides]]() (20.03.2024)
+3. [**Modelling cultures**]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Culture_W2/Slides.html) (20.03.2024)
 - [**Tutorial: ABM basics in Python with Mesa (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
 
 - *No class on 27.03.2024 and 03.04.2024: Easter holidays*
