@@ -27,8 +27,8 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 ### Block 2: Opinion dynamics
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]]()  (10.04.2024)
-- [**Exercise 1: Schelling's model and Pandas (session 1)**]()
+4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Spreading_W4.pdf)  (10.04.2024)
+- [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1)
 
 5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (17.04.2024)
 - [**Exercise 1: Schelling's model and Pandas (session 2)**]()
