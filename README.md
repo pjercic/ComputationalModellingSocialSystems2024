@@ -35,15 +35,15 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 ### Block 3: Network formation
 
-6. [**Basic network models**]() [[Slides]]()  (24.04.2024)   
+6. [**Disease spreading dynamics - guest lecture Jana Lasser**]() [[Slides]]()  (24.04.2024) 
 - [**Exercise 2: Threshold models (session 1)**]()
 
 - *No class on 01.05.2022: Labour day*
 
-7. [**Modelling small worlds**]() [[Slides]]()  (08.05.2024)  
+7. [**Basic network models**]() [[Slides]]()  (08.05.2024)
 - [**Exercise 2: Threshold models (session 2)**]()
 
-8. [**Information spreading dynamics - guest lecture Jana Lasser**]() [[Slides]]()  (15.05.2024)  
+8. [**Modelling small worlds**]() [[Slides]]()  (15.05.2024)  
 - [**Exercise 3: Bounded confidence (session 1)**]()
 
 9. [**Scale-free networks**]() [[Slides]]()  (22.05.2024)
