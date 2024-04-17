@@ -31,7 +31,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 - [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1)
 
 5. [**Opinion dynamics, complex contagion**]() [[Slides]]()  (19.04.2024)
-- [**Exercise 1: Schelling's model and Pandas (session 2)**]()
+- [**Exercise 1: Schelling's model and Pandas (session 2)**] (17.04.2024)
 
 ### Block 3: Network formation
 
