@@ -35,7 +35,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 ### Block 3: Network formation
 
-6. [**Disease spreading dynamics - guest lecture Jana Lasser**]() [[Slides]]()  (24.04.2024) 
+6. [**Disease spreading dynamics - guest lecture Jana Lasser**]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics/)  (24.04.2024) 
 - [**Exercise 2: Threshold models (session 1)**]()
 
 - *No class on 01.05.2022: Labour day*
