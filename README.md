@@ -36,12 +36,12 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 ### Block 3: Network formation
 
 6. [**Disease spreading dynamics - guest lecture Jana Lasser**]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics/)  (24.04.2024) 
-- [**Exercise 2: Threshold models (session 1)**]()
+- [**Exercise 2: Threshold models (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2/granovetter-example-handout.ipynb)
 
 - *No class on 01.05.2022: Labour day*
 
 7. [**Basic network models**]() [[Slides]]()  (08.05.2024)
-- [**Exercise 2: Threshold models (session 2)**]()
+- [**Exercise 2: Threshold models (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2/granovetter-example-handout.ipynb)
 
 8. [**Modelling small worlds**]() [[Slides]]()  (15.05.2024)  
 - [**Exercise 3: Bounded confidence (session 1)**]()
