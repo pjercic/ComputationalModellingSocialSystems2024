@@ -79,7 +79,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 The course takes place on Wednesdays at 15:00 (sharp), lasts 2 hours, with a **exercise session following the lecture**. Exercise session starts the same day at 18:00 and lasts 1 hour. The lecture part of the course will take place in room [HS A (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=4010&pActionFlag=A&pShowEinzelraum=J) and exercise part will take place in room [HS E (Kopernicusgasse 24)](https://online.tugraz.at/tug_online/ris.ris?corg=37&pQuellGeogrBTypNr=5&pZielGeogrBTypNr=5&pZielGeogrBerNr=350001&pRaumNr=3998&pActionFlag=A&pShowEinzelraum=J)
 
-There will be an extra online exercise support group (decided later on). Check TeachCenter for the webex link.
+If needed there will be an extra online exercise support group (decided later on). Check TeachCenter for the webex link.
 
 
 
