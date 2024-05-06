@@ -14,50 +14,50 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 *(Please install Jupyter Notebook before the tutorial sessions takes place, where we can provide help with the installation if something goes wrong.)* The easiest way is using the [Anaconda](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html) distribution, since it is well supported and maintained.
 
-1. [**Basics of agent-based modelling**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/ABM_basics_W1.pdf)  (06.03.2024)
+1. [**Basics of agent-based modelling** - Karimi Fariba]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/ABM_basics_W1.pdf)  (06.03.2024)
 - No exercize session, organisation talk after the lecture  
 
-2. [**Modelling segregation: Schelling's model**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Segregation_W2.pdf) (13.03.2024)
+2. [**Modelling segregation: Schelling's mode**l - Karimi Fariba]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Segregation_W2.pdf) (13.03.2024)
 - [**Tutorial: Python and Pandas introduction (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
 
-3. [**Modelling cultures**]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Culture_W3/Slides.html) (20.03.2024)
+3. [**Modelling cultures** - Jerčić Petar]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/Culture_W3/Slides.html) (20.03.2024)
 - [**Tutorial: ABM basics in Python with Mesa (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Tutorial_files/Exercise_Tutorial.md)
 
 - *No class on 27.03.2024 and 03.04.2024: Easter holidays*
 
 ### Block 2: Opinion dynamics
 
-4. [**Basics of spreading: Granovetter's threshold model**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Spreading_W4.pdf)  (10.04.2024)
+4. [**Basics of spreading: Granovetter's threshold model** - Karimi Fariba]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Spreading_W4.pdf)  (10.04.2024)
 - [**Exercise 1: Schelling's model and Pandas (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1)
 
-5. [**Opinion dynamics, complex contagion**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Spreading_W5.pdf)  (19.04.2024)
+5. [**Opinion dynamics, complex contagion** - Karimi Fariba]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Spreading_W5.pdf)  (19.04.2024)
 - [**Exercise 1: Schelling's model and Pandas (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/tree/main/Exercise_1) (17.04.2024)
 
 ### Block 3: Network formation
 
-6. [**Disease spreading dynamics - guest lecture Jana Lasser**]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics/)  (24.04.2024) 
+6. [**Disease spreading dynamics** - guest lecture Jana Lasser]() [[Slides]](https://janalasser.at/lectures/modelling_disease_spreading_dynamics/)  (24.04.2024) 
 - [**Exercise 2: Threshold models (session 1)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2/granovetter-example-handout.ipynb)
 
 - *No class on 01.05.2022: Labour day*
 
-7. [**Basic network models**]() [[Slides]]()  (08.05.2024)
+7. [**Basic network models** - Raddant Matthias]() [[Slides]]()  (08.05.2024)
 - [**Exercise 2: Threshold models (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2/granovetter-example-handout.ipynb)
 
-8. [**Modelling small worlds**]() [[Slides]]()  (15.05.2024)  
+8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides]]()  (15.05.2024)  
 - [**Exercise 3: Bounded confidence (session 1)**]()
 
-9. [**Scale-free networks**]() [[Slides]]()  (22.05.2024)
+9. [**Project guidance - first session**]() [[Slides]]()  (22.05.2024)
 - [**Exercise 3: Bounded confidence (session 2)**]() 
 
 ### Block 4: Behavior on networks
 
-10. [**Lecture Q&A session**]() [[Slides]]()  (29.05.2024)   
+10. [**Game-theoretic models I(agency, simple models)** -  Matthias Raddant]() [[Slides]]()  (29.05.2024)
 - [**Exercise 4: Scale-free networks and visualization (session 1)**]()
 
-11. [**Game-theoretic models I(agency, simple models) - guest lecture Matthias Raddant**]() [[Slides]]()  (05.06.2024)
+13. [**Game-theoretic models II(complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (05.06.2024)
 - [**Exercise 4: Scale-free networks and visualization (session 2)**]()
 
-13. [**Game-theoretic models II(complex games and on networks) - guest lecture Matthias Raddant**]()  [[Slides]]()  (12.06.2024)  
+14. [**Project guidance - second session**]() [[Slides]]()  (12.06.2024)
 
 ### Project presentations:
 
