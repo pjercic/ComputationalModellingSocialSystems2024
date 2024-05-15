@@ -43,7 +43,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 7. [**Basic network models** - Raddant Matthias]() [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/slides/NetworkModels_W7/Slides.html)  (08.05.2024)
 - [**Exercise 2: Threshold models (session 2)**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/Exercise_2/granovetter-example-handout.ipynb)
 
-8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides]]()  (15.05.2024)  
+8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides1]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/SmallWorlds_W8.pdf) [[Slides2]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Scale-FreeNetworks_W8.pdf) (15.05.2024)  
 
 9. [**Project guidance - first session**]() [[Slides]]()  (22.05.2024)
 - [**Exercise 3: Bounded confidence**]() 
