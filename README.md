@@ -45,7 +45,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides1]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/SmallWorlds_W8.pdf) [[Slides2]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Scale-FreeNetworks_W8.pdf) (15.05.2024)  
 
-9. [**Project guidance - first session and project guidance**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md) [[Slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/ProjectGuide/Slides.html#1)  (22.05.2024)
+9. [**Project guidance - first session**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md) [[Another link for slides]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/ProjectGuide/Slides.html#1)  (22.05.2024)
 - [**Exercise 3: Bounded confidence**]() 
 
 ### Block 4: Behavior on networks
