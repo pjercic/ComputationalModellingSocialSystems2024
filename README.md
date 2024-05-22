@@ -45,7 +45,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 8. [**Modelling small worlds and scale-free networks** - Karimi Fariba]() [[Slides1]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/SmallWorlds_W8.pdf) [[Slides2]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Scale-FreeNetworks_W8.pdf) (15.05.2024)  
 
-9. [**Project guidance - first session**]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/Slides.html)  (22.05.2024)
+9. [**Project guidance - first session and project guidance**](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md) [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/Slides.html)  (22.05.2024)
 - [**Exercise 3: Bounded confidence**]() 
 
 ### Block 4: Behavior on networks
@@ -65,7 +65,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 14. **Project presentations Day 2** [[Agenda]]() (26.06.2024)
 - Make sure your whole group is available between 15:00 and 19:00
-- **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide]()**
+- **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md)**
 
 ## Where to access materials
 
