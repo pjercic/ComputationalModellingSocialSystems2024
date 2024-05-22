@@ -45,7 +45,7 @@ Some basic information:
 - Dates wrap-up:
   - 22.05: First project feedback exercise session
   - 12.06: Second project feedback exercise session and general Q&A session
-  - 12.06: Deadline to register your group in Teach Center. The agenda will be announced over the following week.
+  - 12.06: Deadline to register your group in Teach Center. Registration was opened earlier today.
   - 19.06: First presentations session
   - 26.06: Second presentations session
   - 10.07: Project report deadline
