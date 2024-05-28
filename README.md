@@ -51,12 +51,11 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 ### Block 4: Behavior on networks
 
 10. [**Game-theoretic models I(agency, simple models)** -  Matthias Raddant]() [[Slides]]()  (29.05.2024)
-- [**Exercise 4: Scale-free networks and visualization (session 1)**]()
 
-13. [**Game-theoretic models II(complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (05.06.2024)
-- [**Exercise 4: Scale-free networks and visualization (session 2)**]()
+11. [**Game-theoretic models II(complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (05.06.2024)
+- [**Exercise 4: Scale-free networks and visualization **]()
 
-14. [**Project guidance - second session**]() [[Slides]]()  (12.06.2024)
+12. [**Project guidance - second session**]() [[Slides]]()  (12.06.2024)
 
 ### Project presentations:
 
