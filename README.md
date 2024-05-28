@@ -50,7 +50,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 ### Block 4: Behavior on networks
 
-10. [**Game-theoretic models I(agency, simple models)** -  Matthias Raddant]() [[Slides]]()  (29.05.2024)
+10. [**Game-theoretic models I(agency, simple models)** -  Matthias Raddant]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Epidemics%26Cascades_W10.pdf)  (29.05.2024)
 
 11. [**Game-theoretic models II(complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (05.06.2024)
 - [**Exercise 4: Scale-free networks and visualization **]()
