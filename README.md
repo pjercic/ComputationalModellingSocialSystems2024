@@ -52,7 +52,7 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 10. [**Epidemics and Cascades** -  Matthias Raddant]() [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/Epidemics%26Cascades_W10.pdf)  (29.05.2024)
 
-11. [**Game-theoretic models (complex games and on networks)** - Matthias Raddant]()  [[Slides]]()  (05.06.2024)
+11. [**Game-theoretic models (complex games and on networks)** - Matthias Raddant]()  [[Slides]](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/slides/GameTheorericModels_W11.pdf)  (05.06.2024)
 - [**Exercise 4: Scale-free networks and visualization **]()
 
 12. [**Project guidance - second session**]() [[Slides]]()  (12.06.2024)
