@@ -82,7 +82,6 @@ The course takes place on Wednesdays at 15:00 (sharp), lasts 2 hours, with a **e
 If needed there will be an extra online exercise support group (decided later on). Check TeachCenter for the webex link.
 
 
-
 ## Course grading
 
 The assessment for the course is based on four components:
@@ -96,6 +95,5 @@ The assessment for the course is based on four components:
 - Final group project in groups of **up to four students**. Projects are linked to two evaluations:
   - Participation in group presentation sessions (both as presenter and discussant): **25% of final grade**
   - Project report (include the implementation of behavior in your model - in math or code): **25% of final grade**
-
 
 Graded exercises need to be submitted on teach center by the deadline (end of day in Graz time). We will provide solution files for ungraded exercises for you to check your progress. Nevertheless, we expect to see in your projects the techniques covered in the exercises, both graded and ungraded.

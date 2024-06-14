@@ -1,5 +1,7 @@
 # Computational Modelling of Computational Social Systems: Projects Guide
 
+We provided an example of the final project report from previous years for you [[Final project report example]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/ProjectGuide/final_project_report_example_modeling_css.pdf)
+
 Final group projects are done in groups of up to four students. Projects are linked to two evaluations:
 
 - Participation in group presentation sessions (both as presenter and discussant): 25% of final grade
