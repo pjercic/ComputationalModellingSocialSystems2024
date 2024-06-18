@@ -61,10 +61,10 @@ The course is organized in 12 lectures grouped together in 4 blocks, one final p
 
 ### Project presentations:
 
-13. **Project presentations Day 1** [[Agenda]]() (19.06.2024)
+13. **Project presentations Day 1** [[Agenda]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/final_project_agenda.pdf) (19.06.2024)
 - Make sure your whole group is available between 15:00 and 19:00
 
-14. **Project presentations Day 2** [[Agenda]]() (26.06.2024)
+14. **Project presentations Day 2** [[Agenda]](https://pjercic.github.io/ComputationalModellingSocialSystems2024/final_project_agenda.pdf) (26.06.2024)
 - Make sure your whole group is available between 15:00 and 19:00
 - **The deadline to submit your final report is July 10th (end of day). You can submit over Teach Center. [projects guide](https://github.com/pjercic/ComputationalModellingSocialSystems2024/blob/main/ProjectGuide/ProjectsGuide.md)**
 
